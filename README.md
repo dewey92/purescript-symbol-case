@@ -42,3 +42,7 @@ desired = toCamelRecord response
 ## Examples
 
 You could navigate to [test/Main.purs](test/Main.purs) for more examples.
+
+## ⚠️ Limitation
+
+Currently it supports only the ISO Latin Basic Alphabet (English letters). Suggestions and/or PRs are welcomed 🙂
